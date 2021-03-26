@@ -1,4 +1,5 @@
-![bitemyshinymetalGPT-2](https://user-images.githubusercontent.com/58280110/112588421-5b081300-8dcd-11eb-8a9b-eb0c979e1e91.png)
+![bitemyshinymetalGPT2](https://user-images.githubusercontent.com/58280110/112588630-b63a0580-8dcd-11eb-8899-2e461298ca06.png)
+
 
 ## BiteMyShinyGPT-2
 

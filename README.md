@@ -2,7 +2,7 @@
 
 Use gpt-2 to produce Futurama scripts from another dimension!
 
-All scripts were scraped from imdbs.com using the golang package Colly.
+Scripts for our dataset were scraped from imdbs.com using the golang package Colly.
 
 -----------------------
 

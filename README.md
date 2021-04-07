@@ -1,10 +1,10 @@
-# BiteMyShinyMetalGPT-2
+![bitemyshinymetalGPT2](https://user-images.githubusercontent.com/58280110/112588630-b63a0580-8dcd-11eb-8899-2e461298ca06.png)
 
-Use gpt-2 to produce Futurama scripts from another dimension!
+
+## BiteMyShinyMetalGPT-2
+
 
 Scripts for our dataset were scraped from imdbs.com using the golang package Colly.
-
------------------------
 
 After cloning the repository, you can construct the docker image by navigating into the gpt-2 folder and running 
 

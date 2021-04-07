@@ -6,3 +6,7 @@ WORKDIR /gpt-2
 ADD . /gpt-2
 RUN pip3 install -r requirements.txt
 RUN python3 download_model.py 124M
+
+RUN apt-get update && apt-get install -y \
+  neovim \
+  && rm -rf /var/lib/apt/lists/*
